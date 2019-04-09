@@ -39,6 +39,8 @@ keyword_affiliation = {
         "aish tamid": "jewish",
         "bezazel": "jewish",
         "vedanta": "hindu",
+        "latter day": "mormon",
+        "tenrikyo": "japanese new religious mvmt",
         "russian church": "russian church",
         "foursquare": "Foursquare church",
         "muslim": "muslim",
@@ -82,6 +84,7 @@ keyword_affiliation = {
         "vishnu": "hindu",
         "shiva": "hindu",
         "minyan": "jewish",
+        "konko": "shinto",
         "transfiguration": "catholic",
         "advanced anointing": "non-denominational christian",
         "beautiful gate": "non-denominational christian",
@@ -255,6 +258,7 @@ keyword_affiliation = {
         "sinai": "jewish",
         " shul": "jewish",
         "yoga": "hindu",
+        "cfm": "christian family movement",
         "new hope": "christian",
         "izunome": "japanese new religious mvmt",
         "mission society church": "korean new religious mvmt",
@@ -279,6 +283,7 @@ keyword_affiliation = {
         " ame ": "methodist",
         "casa de oracion": "hispanic christian",
         "casa de dios": "hispanic christian",
+        "st peter": "catholic",
         "family foundation": "family foundation",
         "deacon": "catholic",
         "christian": "christian",
@@ -288,7 +293,8 @@ keyword_affiliation = {
         "maha ": "buddhist",
         "asambleas de dios": "hispanic pentecostal",
         "tabernacle": "christian",
-        "yahweh": "christian or jewish"
+        "yahweh": "christian or jewish",
+        "watanabe": "japanese church"
         }
 
 
