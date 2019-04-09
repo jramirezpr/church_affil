@@ -26,8 +26,10 @@ df_prospecting = pd.read_csv("df_gpcdb_prospects.csv",
                              )
 keyword_affiliation = {
         "saint kevin": "catholic",
+        "franciscan": "catholic",
         "association for creation truth": "korean christian",
         "john the baptist": "catholic",
+        "eucharist": "catholic",
         "american saint hill": "scientology",
         "catholic": "catholic",
         "islam": "muslim",
@@ -67,6 +69,8 @@ keyword_affiliation = {
         "bible church": "christian bible church",
         "sacred heart": "catholic",
         "coptic": "coptic orthodox",
+        "nuestra senora": "hispanic catholic",
+        "nuestra señora": "hispanic catholic",
         "shri ": "hindu",
         "mandir": "hindu",
         "vedic": "hindu",
@@ -149,6 +153,7 @@ keyword_affiliation = {
         "st stephen": "catholic",
         "christ the king": "catholic",
         "john paul": "catholic",
+        "chr-god": "pentecostal",
         "santa muerte": "hispanic church",
         "yoseff ": "jewish",
         "kahal ": "jewish",
@@ -198,6 +203,7 @@ keyword_affiliation = {
         "rccg": "pentecostal",
         "carmelite": "catholic",
         "rtla": "evangelical",
+        "hebrew": "jewish",
         "recovery house": "christian",
         "redemeed christian church": "pentecostal",
         "existence church": "non-denominational christian",
@@ -250,7 +256,7 @@ keyword_affiliation = {
         "yoga": "hindu",
         "new hope": "christian",
         "izunome": "japanese new religious mvmt",
-        "world mission society church": "Korean new religious mvmt",
+        "mission society church": "Korean new religious mvmt",
         "zen": "buddhist",
         "choong hyun": "korean christian",
         "eckankar": "new religious movement",
@@ -260,6 +266,7 @@ keyword_affiliation = {
         "holy spirit": "catholic",
         "st cyril": "catholic/orthodox",
         "rasta": "rastafarian",
+        "rissho": "japanese new religious mvmt",
         "the lord's word church": "korean presbyterian",
         "good news central": "korean christian",
         "ministries": "evangelical",
@@ -276,7 +283,10 @@ keyword_affiliation = {
         "good shepherd": "christian",
         "greater mount carmel": "baptist",
         "judaea": "jewish",
-        "maha ": "buddhist"
+        "maha ": "buddhist",
+        "asambleas de dios": "hispanic pentecostal",
+        "tabernacle": "christian",
+        "yahweh": "christian or jewish"
         }
 
 
