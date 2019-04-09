@@ -311,8 +311,8 @@ def prospect_arda_match(df_prospecting, df_arda):
 
 
 def map_affil(church_name):
-    default_val = None
     """ determine church afilliation from church_name """
+    default_val = None
     keyword_iter = (x for x in keyword_affiliation if x in church_name)
     key = next(keyword_iter, default_val)
     if key is not None:
