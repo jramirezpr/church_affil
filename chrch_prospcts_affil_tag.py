@@ -25,6 +25,7 @@ df_prospecting = pd.read_csv("df_gpcdb_prospects.csv",
                              index_col=0
                              )
 keyword_affiliation = {
+        "besant lodge": "no longer tax-exempt",
         "saint kevin": "catholic",
         "franciscan": "catholic",
         "association for creation truth": "korean christian",
@@ -67,6 +68,7 @@ keyword_affiliation = {
         "cathedral": "catholic",
         "foundation for human rights & tolerance": "scientology",
         "ahava": "jewish",
+        "judea": "jewish",
         "john the baptist": "catholic",
         "sofer": "jewish",
         "the gathering": "non-denominational christian",
@@ -294,7 +296,8 @@ keyword_affiliation = {
         "asambleas de dios": "hispanic pentecostal",
         "tabernacle": "christian",
         "yahweh": "christian or jewish",
-        "watanabe": "japanese church"
+        "watanabe": "japanese church",
+        "jesucristo": "hispanic christian"
         }
 
 
