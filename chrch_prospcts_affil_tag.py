@@ -273,7 +273,10 @@ keyword_affiliation = {
         "family foundation": "family foundation",
         "deacon": "catholic",
         "christian": "christian",
-        "good shepherd": "christian"
+        "good shepherd": "christian",
+        "greater mount carmel": "baptist",
+        "judaea": "jewish",
+        "maha ": "buddhist"
         }
 
 
@@ -323,6 +326,21 @@ def map_affil(church_name):
         return None
 
 
+def bible_to_christian(church_name):
+    """determine if church contains 'bible' in name"""
+    if "bible" in church_name:
+        return "christian"
+    else:
+        return None
+
+
+def bible_fill(row):
+    if pd.isnull(row['filled_aux']):
+        return bible_to_christian(row['name'])
+    else:
+        return row.denom
+
+
 def get_affiliation(df, df_arda):
     """ get affiliation from a row in df. The procedure first selects
     tries to find the affiliation using map_affil, and if it isn't found,
@@ -330,7 +348,9 @@ def get_affiliation(df, df_arda):
     """
     df_merged = prospect_arda_match(df, df_arda)
     df_merged['denom'] = df_merged['name'].apply(map_affil)
-    df_merged['filled'] = df_merged['denom'].fillna(df_merged['denomination'])
+    df_merged['filled_aux'] = df_merged['denom'].fillna(
+            df_merged['denomination'])
+    df_merged['filled'] = df_merged.apply(bible_fill, axis=1)
     return df_merged['filled']
 
 
