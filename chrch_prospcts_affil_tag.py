@@ -42,6 +42,9 @@ keyword_affiliation = {
         "bezazel": "jewish",
         "vedanta": "hindu",
         "latter day": "mormon",
+        "bread of life": "christian",
+        "pan de ":"hispanic cristian",
+        "virgen de guadalupe": "hispanic christian",
         "tenrikyo": "japanese new religious mvmt",
         "russian church": "russian church",
         "foursquare": "Foursquare church",
@@ -110,7 +113,7 @@ keyword_affiliation = {
         "pacific crossroads": "presbyterian",
         "dharma": "buddhist",
         "mitzvah": "jewish",
-        "isaiah": "isaiah",
+        "isaiah": "jewish",
         "scientology": "scientology",
         "virgin mary": "catholic",
         "new city": "Christian Reformed Church",
@@ -303,7 +306,7 @@ keyword_affiliation = {
         "yahweh": "christian or jewish",
         "watanabe": "japanese church",
         "jesucristo": "hispanic christian",
-        "alianza minist": "hispanic christian"
+        "alianza minist": "hispanic christian",
         }
 
 
