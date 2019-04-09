@@ -263,7 +263,6 @@ keyword_affiliation = {
         "the lord's word church": "korean presbyterian",
         "good news central": "korean christian",
         "ministries": "evangelical",
-        "christian": "christian",
         "relevant church": "evangelical",
         "new creation": "christian non-denominational",
         "ministerio": "hispanic christian",
@@ -271,7 +270,10 @@ keyword_affiliation = {
         " ame ": "methodist",
         "casa de oracion": "hispanic christian",
         "casa de dios": "hispanic christian",
-        "family foundation": "family foundation"
+        "family foundation": "family foundation",
+        "deacon": "catholic",
+        "christian": "christian",
+        "good shepherd": "christian"
         }
 
 
