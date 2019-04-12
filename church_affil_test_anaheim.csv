@@ -6,19 +6,19 @@ id,name,street,city,state,zipcode,affili
 a2a01687-508c-2422-549e-5c3e6ccd481e,know the truth,8712 e santa ana canyon rd,anaheim,ca,92808,
 b6c079da-0399-c5f1-87ed-5c3e6cc510ec,christ the center ministries inc,1400 n jefferson st,anaheim,ca,92807,christian
 d5f0750d-ed4a-ab9d-e26b-5c3e6c91d205,korean gospel broadcasting company inc,2641 w la palma ave,anaheim,ca,92801,korean church
-1538ea6b-1ba7-400b-a95a-5c3e6cb53697,dawn mission,1815 e center st,anaheim,ca,92805,
+1538ea6b-1ba7-400b-a95a-5c3e6cb53697,dawn mission,1815 e center st,anaheim,ca,92805,korean christian
 3c0b9dcf-9ac7-5b3c-0ba0-5c3e6c67e6df,faith international revival ministries,1700 w cerritos ave,anaheim,ca,92804,evangelical
 5a007fa3-1cb5-0b3f-2d81-5c3e6c199fc8,international golden eagle ministries,6308 e woodsboro ave,anaheim,ca,92807,evangelical
 6b204707-d14b-832f-f770-5c3e6c99aeec,kainos healing ministry,225 s western ave apt 4-309,anaheim,ca,92804,evangelical
 95320ad1-48f0-9a12-fd6b-5c3e6c55e7b4,hill of hope inc,po box 349,anaheim,ca,92815,
-b7ccda70-7a30-8f2f-4bc7-5c3e6c6e6d58,light of zion,po box 27575,anaheim,ca,92809,
+b7ccda70-7a30-8f2f-4bc7-5c3e6c6e6d58,light of zion,po box 27575,anaheim,ca,92809,messianic judaism
 e36add4b-33e4-f7cf-7a4a-5c3e6cc36f95,open village,600 n clementine st,anaheim,ca,92805,
-e810934d-96e5-fbff-aef1-5c3e6c64592f,agapao foundation,4214 e la palma ave,anaheim,ca,92807,
+e810934d-96e5-fbff-aef1-5c3e6c64592f,agapao foundation,4214 e la palma ave,anaheim,ca,92807,christian
 ab00026f-5501-969b-5f50-5c3e6cec41a0,pioneer christian school of southern california,641 s western ave,anaheim,ca,92804,christian
 e86109a5-65e2-cd5d-aee5-5c3e6c7c1782,jafaria islamic society,po box 26061,anaheim,ca,92825,muslim
 184a1ccc-dce7-009e-ebe3-5c3e6c49979e,annual anaheim mayors prayer breakfast committee,174 w lincoln ave no 670,anaheim,ca,92805,
 34f5f380-6618-7038-83cc-5c3e6c7a6236,bethesda full gospel church,730 n euclid st,anaheim,ca,92801,christian
-454702d2-f4dd-002d-616b-5c3e6c0f0179,all world gayatri pariwar u s a,2446 w orange ave,anaheim,ca,92804,
+454702d2-f4dd-002d-616b-5c3e6c0f0179,all world gayatri pariwar u s a,2446 w orange ave,anaheim,ca,92804,hindu
 81278fda-cd83-9b4c-c9ed-5c3e6c8eab13,calvary chapel open door,1011 n harbor blvd,anaheim,ca,92801,christian
 d05bf378-6eb0-b548-be57-5c3e6cee32c8,iglesia cristiana adonai,121 w cypress st,anaheim,ca,92805,hispanic christian
 f08a6414-4e64-bd8c-1557-5c3e6c3da0d9,first southern baptist church,1275 e broadway,anaheim,ca,92805,baptist
@@ -35,7 +35,7 @@ dabd3ce5-505c-81af-a093-5c3e6c30f836,saint justin martyr catholic church,2050 w 
 b3999c88-77fc-327b-80aa-5c3e6c0a5574,presbytery of los ranchos,330 w broadway,anaheim,ca,92805,presbyterian
 b888de8b-fab2-04a4-88ec-5c3e6cf513bb,eastside christian church - anaheim,3330 e miraloma ave ste 101,anaheim,ca,92806,christian
 28a54891-49f8-5dfe-dda9-5c3e6c90706c,cornerstone church,4905 e la palma ave,anaheim,ca,92807,christian non-denominational
-3acc5b54-290a-81cb-7809-5c3e6c14c75c,first congregational church pre-school & kindrgrtn,515 n state college blvd,anaheim,ca,92806,
+3acc5b54-290a-81cb-7809-5c3e6c14c75c,first congregational church pre-school & kindrgrtn,515 n state college blvd,anaheim,ca,92806,christian congregational church
 3f540c2a-da4a-766a-69b1-5c3e6cd335ce,anaheim first christian church,520 w south st,anaheim,ca,92805,christian
 4533c93c-3c94-fbf3-7238-5c3e6c4a1685,vineyard church of anaheim,5340 e la palma ave,anaheim,ca,92807,
 4e8357d5-7388-8f78-f875-5c3e6c5a9164,calvary chapel east anaheim,5605 e la palma ave,anaheim,ca,92807,christian
@@ -45,9 +45,9 @@ b888de8b-fab2-04a4-88ec-5c3e6cf513bb,eastside christian church - anaheim,3330 e 
 b7a3975d-afec-5727-92de-5c3e6cf4911b,grace oc church,8095 e crystal dr,anaheim,ca,92807,
 d0d919f3-cdda-6d7d-5314-5c3e6cdc8f21,kindred community church,8712 e santa ana canyon rd,anaheim,ca,92808,christian
 1e14e9aa-f982-7a7c-3495-5c3e6cb7b58a,annunciation byzantine catholic church,995 n west st,anaheim,ca,92801,catholic
-27ac1d55-1de1-30af-8490-5c3e6c73aeba,saddleback church - anaheim,2095 e katella ave,anaheim,ca,92806,
+27ac1d55-1de1-30af-8490-5c3e6c73aeba,saddleback church - anaheim,2095 e katella ave,anaheim,ca,92806,baptist
 2c548249-af81-e364-d3c9-5c3e6c4e731d,crosspointe church,1300 n kellogg ave,anaheim,ca,92886,christian non-denominational
-3f0b25db-a8be-8108-5677-5c3e6c757bee,the rock,295 e orangethorpe ave,anaheim,ca,92801,
+3f0b25db-a8be-8108-5677-5c3e6c757bee,the rock,295 e orangethorpe ave,anaheim,ca,92801,christian non-denominational
 93e2ff8a-857f-37a8-865a-5c3e6cf6853b,san antonio de padua catholic church,5800 e santa ana canyon rd,anaheim,ca,92807,catholic
 1b0f40c2-315f-c3b4-75f6-5c3e6ce4a2b2,river arena,201 e broadway,anaheim,ca,92805,
 4335449f-98cf-4358-7c88-5c3e6c89f34b,anaheim united methodist church,1000 s state college blvd,anaheim,ca,92806,methodist
@@ -68,13 +68,13 @@ ee848d0f-c64f-7811-8893-5c3e6c3d3cfb,st. boniface catholic church,120 n janss st
 49dac8db-cd76-1421-515c-5c3e6ccf875e,st. thomas korean catholic center,412 n crescent way,anaheim,ca,92801,catholic
 5ea0bacb-62bf-5b32-a4a2-5c3e6c7f3234,salvation army anaheim red shield,1515 w north st,anaheim,ca,92801,salvation army
 61305355-d9f8-ffed-e322-5c3e6cb7ec5e,st michael's episcopal church,311 w south st,anaheim,ca,92805,episcopalian
-64462667-9fc0-12f6-9aca-5c3e6c52a4af,the rock cafe & bookstore,101 e orangethorpe,anaheim,ca,92801,
+64462667-9fc0-12f6-9aca-5c3e6c52a4af,the rock cafe & bookstore,101 e orangethorpe,anaheim,ca,92801,christian non-denominational
 72d57184-620a-e401-90fc-5c3e6c50d8e4,zion lutheran church,222 n east st,anaheim,ca,92805,Lutheran
 77c62bb4-11ad-37ea-c6a1-5c3e6ce23aef,the church of jesus christ of latter-day saints,535 s rio vista st,anaheim,ca,92806,mormon
 7f465b5e-06a4-2db8-7549-5c3e6cfb73e2,trinity lutheran christian school & church,4101 e nohl ranch rd,anaheim,ca,92807,Lutheran
 980a10d0-7606-cbf4-2e16-5c3e6c3f0d53,church of christ,1590 weat ball rd,anaheim,ca,92802,churches of christ
-b8423115-a54e-6f06-7030-5c3e6c305294,lamb of god child care center,2443 e south st,anaheim,ca,92806,
-bf79ce18-e10d-a15f-140b-5c3e6ccc6012,jehovah's witnesses-anaheim,2143 w lincoln ave,anaheim,ca,92801,
+b8423115-a54e-6f06-7030-5c3e6c305294,lamb of god child care center,2443 e south st,anaheim,ca,92806,christian
+bf79ce18-e10d-a15f-140b-5c3e6ccc6012,jehovah's witnesses-anaheim,2143 w lincoln ave,anaheim,ca,92801,christian jehovah's witnesses
 cba72f9c-170b-8728-947d-5c3e6c34f2f5,community of christ,827 s walnut st,anaheim,ca,92802,christian
 d3281ab8-268e-761b-56a6-5c3e6cca84c1,servite high school,1952 w la palma ave,anaheim,ca,92801,
 80f3084e-d886-d65a-f7b4-5c3f83527693,test 1,475 e cypress st,anaheim,ca,92805,
