@@ -123,6 +123,7 @@ keyword_affiliation = {
         "dharma": "buddhist",
         "mitzvah": "jewish",
         "isaiah": "jewish",
+        "taslimi": "baha'i faith",
         "vincent de paul": "catholic",
         "syro malabar": "catholic",
         "scientology": "scientology",
