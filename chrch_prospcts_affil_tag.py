@@ -25,9 +25,22 @@ df_prospecting = pd.read_csv("df_gpcdb_prospects.csv",
                              dtype="object",
                              index_col=0
                              )
+
 with open('keywords_churches.json', 'w') as infile:
     keyword_affiliation = json.load(infile)
 # maybe add again later:"united": "methodist",
+
+
+def add_keyword(keyword, value):
+    """add_keyword to dictionary"""
+    if keyword in keyword_affiliation:
+        print('error, keyword already in dictionary with value')
+        print(keyword_affiliation[keyword])
+    else:
+        keyword_affiliation[keyword] = value
+        with open('keywords_churches.json', 'w') as outfile:
+            json.dump(keyword_affiliation, outfile)
+
 
 
 def preprocess_crm_prospects(df):
