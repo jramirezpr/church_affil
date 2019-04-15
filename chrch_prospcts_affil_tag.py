@@ -26,7 +26,7 @@ df_prospecting = pd.read_csv("df_gpcdb_prospects.csv",
                              index_col=0
                              )
 
-with open('keywords_churches.json', 'w') as infile:
+with open('keywords_churches.json', 'r') as infile:
     keyword_affiliation = json.load(infile)
 # maybe add again later:"united": "methodist",
 
@@ -40,7 +40,6 @@ def add_keyword(keyword, value):
         keyword_affiliation[keyword] = value
         with open('keywords_churches.json', 'w') as outfile:
             json.dump(keyword_affiliation, outfile)
-
 
 
 def preprocess_crm_prospects(df):
