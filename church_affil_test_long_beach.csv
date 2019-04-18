@@ -4,7 +4,7 @@ id,name,street,city,state,zipcode,affili
 9f107fd2-04d5-3fdf-0c49-5c3e6cdcb893,filipino american christian church,185 e market st,long beach,ca,90805,christian
 a7bef277-eaeb-0484-4117-5c3e6ca23e4a,christ's mission congregational church,191 e artesia blvd,long beach,ca,90805,christian congregational church
 cce4b42f-7316-f4af-544e-5c3e6c12665d,holy trinity a m e church,200 e 68th st,long beach,ca,90805,methodist
-703b0208-8933-4276-5f55-5c3e6c63bfe6,bethany church,2250 clark ave,long beach,ca,90815,
+703b0208-8933-4276-5f55-5c3e6c63bfe6,bethany church,2250 clark ave,long beach,ca,90815,christian non-denominational
 97080987-2eec-e8e8-2618-5c3e6cd6d270,nazarene first church of,2280 clark ave,long beach,ca,90815,christian
 1ea2f5f3-bb10-911d-772e-5c3e6c39b2dd,open door ministries,2375 fanwood ave,long beach,ca,90815,evangelical
 90ed1386-5752-f317-5095-5c3e6c7c65da,destiny house ministries,3029 e south st ste 2,long beach,ca,90805,evangelical
@@ -44,17 +44,17 @@ baba58d1-8a0f-ca42-16ba-5c3e6cfa2cbd,greater united faith apostolic church,6934 
 c6316bfc-8f13-0b01-db68-5c3e6c0fd658,power of praise ministries,1085 e artesia blvd,long beach,ca,90805,evangelical
 d3f84fe5-fc9c-2a6f-5a0d-5c3e6c42269f,valley christian preschool at park church,3655 n norwalk blvd,long beach,ca,90808,christian
 ddb8c79a-f98a-0b17-9568-5c3e6c320133,st gregory's episcopal church,6201 e willow st,long beach,ca,90815,episcopalian
-e2c185b0-f9e4-0ccc-1fe5-5c3e6ce54033,crossroads church,1900 e south st,long beach,ca,90805,
+e2c185b0-f9e4-0ccc-1fe5-5c3e6ce54033,crossroads church,1900 e south st,long beach,ca,90805,christian
 ec72462c-6890-7660-0349-5c3e6c847057,the church of jesus christ of latter-day saints,6500 e atherton st,long beach,ca,90815,mormon
 4a1c44c3-4c23-16a4-43cb-5c5b05e5bc3a,first congregational church of long beach,241 cedar ave,long beach,ca,90802,christian congregational church
-4c854ad5-92b6-39f9-868f-5c5b053fe8a0,project ijtihad,c/o i manji 5872 spinnaker bay dr,long beach,ca,90803,
+4c854ad5-92b6-39f9-868f-5c5b053fe8a0,project ijtihad,c/o i manji 5872 spinnaker bay dr,long beach,ca,90803,muslim
 4eee516c-4173-05b8-1707-5c5b05970c8a,teach us to pray international,111 w barclay st,long beach,ca,90805,
 51585eeb-e568-15c6-5de7-5c5b0523d8ed,buddhist blessing association,2411 linden ave,long beach,ca,90806,buddhist
 53c285dc-209a-0997-f57d-5c5b05dfaf00,spiritual truths unity fellowship chruch long beach,717 e pacific coast hwy,long beach,ca,90806,evangelical
 562c819c-26dd-3bfa-757f-5c5b05e38541,youth for christ usa inc,3435 san anseline bldg 3 ste 2,long beach,ca,90808,christian
 58a4f6fb-44e3-1c6c-5e21-5c5b0519e929,american indian changing spirits,2120 w williams st ste 1,long beach,ca,90810,
 5b19944b-0bf9-6042-85a7-5c5b058f8de9,christ second baptist church of longbeach california,1471 martin luther king jr ave,long beach,ca,90813,baptist
-5d8929c3-f696-3fb8-8bb0-5c5b0594b850,wat sovannasam meditation a non profit religious corporation,1622 cherry ave,long beach,ca,90813,
+5d8929c3-f696-3fb8-8bb0-5c5b0594b850,wat sovannasam meditation a non profit religious corporation,1622 cherry ave,long beach,ca,90813,buddhist
 5ff4dc4d-3d14-80df-b8f9-5c5b05e52a85,greater la church development,346 termino ave,long beach,ca,90814,
 7671ab8c-acdd-468a-36b5-5c5b05cd8687,long beach police officers memorial widows emergency and scholarship f,2865 temple ave,long beach,ca,90755,
 8384f173-18f8-4f7f-0d6f-5c5b05b655fb,academy of business leadership,444 w ocean blvd ste 800,long beach,ca,90802,
@@ -91,7 +91,7 @@ e91ebd46-295a-d37c-152d-5c5b05e9577b,mental health america of los angeles,200 pi
 eb9ca8f3-cf97-0804-f889-5c5b05b57f1c,museum of latin america art,628 alamitos ave,long beach,ca,90802,
 ee1b47ce-c5b7-33fa-f1e9-5c5b05778c3e,my best chance international inc,340 golden shore ste 240,long beach,ca,90802,
 f09e53d0-3ace-8682-d498-5c5b05f7f207,my own life foundation,600 e ocean blvd apt 1504,long beach,ca,90802,
-f3360d33-b6fc-2589-d8ea-5c5b05c3f9df,new life beginnings inc,835 e 6th st,long beach,ca,90802,pentecostal
+f3360d33-b6fc-2589-d8ea-5c5b05c3f9df,new life beginnings inc,835 e 6th st,long beach,ca,90802,women's shelter
 196f0c8c-5588-d7d8-5faf-5c5b05453e83,propeller club of the u s port of los angeles long beach no 66,320 pine ave ste 1050,long beach,ca,90802,
 41b10066-7361-8e5d-e68c-5c5b0557b680,public corporation for the arts of the city of long beach,350 elm ave,long beach,ca,90802,
 6ab5082f-b4a9-48fe-4ffb-5c5b05d9f59a,reep family foundation,400 oceangate,long beach,ca,90802,family foundation
@@ -127,7 +127,7 @@ e5190046-95a9-d8c8-a366-5c5b0555d116,salvation army turk street inc,180 e ocean 
 523549b8-ba18-e91a-7958-5c5b059a1c09,foreign trade association,6216 w pacific coast hwy no 407,long beach,ca,90803,
 54bfaba8-4342-e3c6-58ef-5c5b0583b780,freedom writers foundation,3335 e ocean blvd,long beach,ca,90803,
 574414e2-da51-159a-550e-5c5b05e5932d,friends of colorado lagoon,6475 e pacific coast hwy ste 252,long beach,ca,90803,
-59c5f5e8-48c6-2685-950f-5c5b05f51270,gnostic institute of universalesoteric studies,3408 e broadway ste b,long beach,ca,90803,
+59c5f5e8-48c6-2685-950f-5c5b05f51270,gnostic institute of universalesoteric studies,3408 e broadway ste b,long beach,ca,90803,esoteric religious mvmt
 5c40bdde-d354-2c73-1765-5c5b0565a6e0,harbor association of industry & commerce,6216 w pacific coast hwy no 407,long beach,ca,90803,
 5ebd3a4e-43a0-2d64-552f-5c5b0567845f,inspire ccm,6615 e pac coast hwy no 150,long beach,ca,90803,
 61385903-c4e3-9bdc-b706-5c5b055dee20,international longshore & warehouse union,6615 e pacific coast hwy ste 250,long beach,ca,90803,
@@ -332,7 +332,7 @@ b6436863-198c-9575-b0bf-5c5b0513bc27,long beach rescue mission,1430 pacific ave,
 b8bf468b-1468-8509-1fee-5c5b05fe335e,new creative arts plus programs for children inc,1423 walnut ave,long beach,ca,90813,
 bb3bdd38-8dbf-1a19-bc97-5c5b05636572,pta california congress of parents teachers & students inc,1600 atlantic ave,long beach,ca,90813,
 bdb27ea8-e31a-505e-d13b-5c5b059ff37f,robert gumbiner foundation,1020 e 7th st,long beach,ca,90813,
-c03be327-427b-494f-ecd2-5c5b057cae5b,saint germains i am ascension home of long beach,800 magnolia ave,long beach,ca,90813,
+c03be327-427b-494f-ecd2-5c5b057cae5b,saint germains i am ascension home of long beach,800 magnolia ave,long beach,ca,90813,theosophy
 c2afc8c2-a05a-a938-b22f-5c5b05f02391,southern california regional transit training consortium,1963 e anaheim st,long beach,ca,90813,
 c529d6ad-e967-741d-f04f-5c5b050807fb,st mary medical center foundation,1050 linden ave,long beach,ca,90813,
 c79e8a77-29d8-f0ae-3f61-5c5b0531cb6e,st mary professional building inc,1050 linden ave,long beach,ca,90813,
@@ -430,26 +430,26 @@ c4ad71b2-ab37-40b4-5986-5c868cd86ad8,spirit of praise sacred artistry internatio
 c7a0d976-fe81-e6bd-73c5-5c868c468807,japan christian fellowship,3590 elm ave,long beach,california,90807,evangelical
 ca725bca-f02b-fec1-90f7-5c868cbd182c,southbay early christian,402 e 37 th st,long beach,california,90807,christian
 cd42f6be-a3ef-7a08-8e0b-5c868c92715d,dharma realm buddish assn,4140 long beach blvd,long beach,california,90807,buddhist
-d00f55e9-651e-8f8c-d68c-5c868ca41e29,congregation lubavitch,3981 atlantic ave,long beach,california,90807,
-d2e3cc67-06e9-33cf-4231-5c868cab0ecc,mikveh yisroel-lubavitch,3847 atlantic ave,long beach,california,90807,
-d5c825e6-e27f-c5f0-7810-5c868c0c8366,st anthony parish school,540 olive ave,long beach,california,90802,
-d88a9422-e30f-349a-10d9-5c868c71c59e,rock house church,1126 queens hwy,long beach,california,90802,
-db61fcac-0a8b-7934-6886-5c868c80eef8,four square church,340 golden shr ste 220,long beach,california,90802,
+d00f55e9-651e-8f8c-d68c-5c868ca41e29,congregation lubavitch,3981 atlantic ave,long beach,california,90807,jewish
+d2e3cc67-06e9-33cf-4231-5c868cab0ecc,mikveh yisroel-lubavitch,3847 atlantic ave,long beach,california,90807,jewish
+d5c825e6-e27f-c5f0-7810-5c868c0c8366,st anthony parish school,540 olive ave,long beach,california,90802,catholic
+d88a9422-e30f-349a-10d9-5c868c71c59e,rock house church,1126 queens hwy,long beach,california,90802,christian non-denominational
+db61fcac-0a8b-7934-6886-5c868c80eef8,four square church,340 golden shr ste 220,long beach,california,90802,Foursquare church
 de38836c-5c6d-c36a-d4f4-5c868c9459c3,first congregational church ucc,241 cedar ave,long beach,california,90802,christian congregational church
 e107e704-e47e-9eec-51fa-5c868cd1ce2e,life vine ministries of first christian church,440 elm ave,long beach,california,90802,christian
 e3c79ec6-620d-b88e-8225-5c868c2b103e,captivity in christ church,318 elm ave ste 14,long beach,california,90802,christian
 e6972de5-ce29-961d-46f3-5c868c28f0e8,fellowship sober living,454 chestnut ave,long beach,california,90802,evangelical
 e973d789-52e6-da5c-5f98-5c868c8a3ed4,feed my lambs healing & deliverance ministries,121 linden ave suite 104,long beach,california,90802,evangelical
-ec4aea99-3d48-f7e2-b678-5c868cf22faa,dari rulai temple,441 e 1 st st,long beach,california,90802,
+ec4aea99-3d48-f7e2-b678-5c868cf22faa,dari rulai temple,441 e 1 st st,long beach,california,90802,buddhist
 ef11a8c8-df44-6ee2-1066-5c868c613ff6,new wine community church,421 w broadway,long beach,california,90802,christian
 f1e10a16-e1a4-13df-83c6-5c868c106506,hope alliance church,1427 e 4 th st,long beach,california,90802,evangelical
-9d000245-9efe-9758-7d45-5c868ce60d8c,second samoan church,655 cedar ave,long beach,california,90802,
+9d000245-9efe-9758-7d45-5c868ce60d8c,second samoan church,655 cedar ave,long beach,california,90802,samoan church
 38580827-8ce8-f368-dfa5-5c868c893119,long beach sda church,1001 e 3 rd st,long beach,california,90802,seventh-day adventist
 65ec0b9b-de9b-fd4f-5d50-5c868c036573,neighborhood united methodist,507 pacific ave,long beach,california,90802,methodist
 943f0b52-5aab-eae4-22f6-5c868c79f7d8,unity long beach,935 e broadway,long beach,california,90802,
 284bd023-667e-e5ad-e8ad-5c868cbf8319,trinity christian church,31 w louise st,long beach,california,90805,christian
 2b0d6f5f-120d-82a0-d512-5c868c4979d1,st john lutheran church,6698 orange ave,long beach,california,90805,Lutheran
-2dccf4ac-a25e-a84f-95ca-5c868cab32e6,greater open door church-god,132 e artesia blvd,long beach,california,90805,
+2dccf4ac-a25e-a84f-95ca-5c868cab32e6,greater open door church-god,132 e artesia blvd,long beach,california,90805,pentecostal
 30fe3c39-c517-2774-9b74-5c868c8c2085,ministerio bautista logos,901 e south st,long beach,california,90805,hispanic christian
 33f75f5e-5885-82ba-c952-5c868c8001ae,"abundance of life temple of christ, inc.",6100 long beach blvd,long beach,california,90805,christian
 36b09b07-5202-d202-4692-5c868cce1631,believers outreach ministries,1604 e south st,long beach,california,90805,evangelical
@@ -460,7 +460,7 @@ f1e10a16-e1a4-13df-83c6-5c868c106506,hope alliance church,1427 e 4 th st,long be
 44858466-191a-afcf-209f-5c868c4aa98e,new city church,1228 e south st,long beach,california,90805,Christian Reformed Church
 4746046a-bc34-70ed-2a09-5c868cb39d83,miracle faith apostolic,6160 atlantic ave,long beach,california,90805,
 4a0f7fb6-a6f6-a522-1271-5c868c0b966c,praise chapel long beach,6095 atlantic ave,long beach,california,90805,christian non-denominational
-4cdd57c1-5b33-bf54-93e7-5c868c8c3635,iglesia cristiana templo shalom,1120 e market st,long beach,california,90805,jewish
+4cdd57c1-5b33-bf54-93e7-5c868c8c3635,iglesia cristiana templo shalom,1120 e market st,long beach,california,90805,hispanic christian
 4fae409a-56dc-b6e2-ca69-5c868c7c3c9d,long beach bible institute,455 e artesia blvd,long beach,california,90805,christian
 527907cb-e64d-e9c6-99e6-5c868cd38848,north long beach united methodist church,5600 linden ave,long beach,california,90805,methodist
 553d9b3d-e8e8-35b6-60d8-5c868cdc8e05,west coast spiritual fellowship,1000 e via wanda,long beach,california,90805,evangelical
@@ -468,8 +468,8 @@ f1e10a16-e1a4-13df-83c6-5c868c106506,hope alliance church,1427 e 4 th st,long be
 5ac1bcaf-a5df-4f94-abd4-5c868ccfa343,filipino american christian church,185 e market st,long beach,california,90805,christian
 5d8a2804-4ba5-5b5c-bb23-5c868cba781f,mision bautista esperanza en cristo,185 e market st,long beach,california,90805,hispanic christian
 604d0c14-563c-7844-fa46-5c868c419ba5,ambassadors for christ worship,6158 long beach blvd,long beach,california,90805,christian
-63164469-6c80-36ba-f2c3-5c868c291cd6,de forrest long beach congregation of jehovah wit,17 e market st,long beach,california,90805,
-65e23dba-4be4-2942-4dfe-5c868c17396f,grace mission center,37 e mountain view st,long beach,california,90805,
+63164469-6c80-36ba-f2c3-5c868c291cd6,de forrest long beach congregation of jehovah wit,17 e market st,long beach,california,90805,christian jehovah's witnesses
+65e23dba-4be4-2942-4dfe-5c868c17396f,grace mission center,37 e mountain view st,long beach,california,90805,christian
 68a9f299-2799-31ad-bcd7-5c868c09280a,fellowship community church,5358 long beach blvd,long beach,california,90805,evangelical
 6b6d181d-42ce-75d0-21dd-5c868c1c7b89,bethlehem judah ministries,5278 long beach blvd,long beach,california,90805,christian
 6e35b49e-0585-0a03-91ac-5c868ce6878c,shield of faith christian center,4934 long beach blvd,long beach,california,90805,christian
@@ -482,11 +482,11 @@ f1e10a16-e1a4-13df-83c6-5c868c106506,hope alliance church,1427 e 4 th st,long be
 84876a98-9a34-b6b5-15ee-5c868c910a33,evangelical released time,5722 lime ave,long beach,california,90805,evangelical
 875f685f-74a4-21ac-9f03-5c868c1f0545,north long beach ministry center inc,5239 atlantic ave,long beach,california,90805,evangelical
 8a3a9196-22ec-0064-64ed-5c868c386d70,deleno blackwell ministries,31 w louise st,long beach,california,90805,evangelical
-8d2a0ac2-fd60-e4d2-468d-5c868c2ac865,new revelation faith center,1000 e artesia blvd,long beach,california,90805,
+8d2a0ac2-fd60-e4d2-468d-5c868c2ac865,new revelation faith center,1000 e artesia blvd,long beach,california,90805,christian non-denominational
 901345a7-94ae-2bd4-336d-5c868c1f836d,monte de sion,1155 e market st,long beach,california,90805,
 92fe76e2-5c14-dd07-226f-5c868c4225f4,holy spirit fellowship,1115 e market st,long beach,california,90805,evangelical
 95e328fe-a355-967a-4287-5c868c73f672,iglesia de cristo miel de long beach,5200 atlantic ave,long beach,california,90805,hispanic christian
-98cac6c3-a120-80c5-c907-5c868c837f06,abundant new life ministries,1810 e artesia blvd,long beach,california,90805,pentecostal
+98cac6c3-a120-80c5-c907-5c868c837f06,abundant new life ministries,1810 e artesia blvd,long beach,california,90805,evangelical
 9bb3fff3-ddde-ac87-b4c3-5c868cea32b2,mount of olives christian church,1101 e artesia blvd,long beach,california,90805,christian
 9e9f6cb8-d829-5230-1893-5c868c47e4ee,north long beach christian church,1115 e market st,long beach,california,90805,christian
 a184e0d9-fba2-1515-9ae1-5c868cc84bc0,renewed life church,132 e artesia blvd,long beach,california,90805,
@@ -501,23 +501,23 @@ a74d67a0-f5c6-6974-e908-5c868cc90bcf,long beach new life fellowship assembly,468
 36578dea-23f8-63ba-4cb6-5c868cc4eaa8,bridges church,3435 san anseline ave,long beach,california,90808,
 392a32ac-0bc2-b3b9-eba9-5c868c46cc4c,long beach christian reformed church,5559 e wardlow rd,long beach,california,90808,christian
 3c021d99-74d7-8297-877d-5c868c9ec2be,st cornelius school,3330 n bellflower blvd,long beach,california,90808,
-3ee18856-9238-7dd8-4a7a-5c868c2cebdb,st maria goretti school,3950 palo verde ave,long beach,california,90808,
+3ee18856-9238-7dd8-4a7a-5c868c2cebdb,st maria goretti school,3950 palo verde ave,long beach,california,90808,catholic
 41d74a7e-a64c-0121-4534-5c868cc675c4,truett memorial southern baptist church,3435 san anseline ave,long beach,california,90808,baptist
 44bbbc78-980c-278c-c12b-5c868cdef565,christian science churches & reading rooms,3401 n studebaker rd,long beach,california,90808,christian science
 2aecccd9-01fd-4984-f6cc-5c868c00e343,christ chapel of long beach,3935 e 10 th st,long beach,california,90804,christian
 2db6bef0-25d9-470d-e8ba-5c868c721ea3,long beach dream center,1066 junipero ave,long beach,california,90804,
-307f6d53-7a71-2726-e74d-5c868c1a2c10,universal mind science,3212 e 8 th st,long beach,california,90804,
+307f6d53-7a71-2726-e74d-5c868c1a2c10,universal mind science,3212 e 8 th st,long beach,california,90804,christian non-denominational
 334a4ee9-e514-6e5c-bb16-5c868ca2a063,los altos church of christ,5155 e pacific coast hwy,long beach,california,90804,churches of christ
 36213f46-b9fa-ff56-b65d-5c868ce8b03b,church of god-cleveland tenn,1216 redondo ave,long beach,california,90804,pentecostal
 38f31d99-d60d-f6f7-7edc-5c868c203072,"the door long beach, ca church",2200 e pacific coast hwy,long beach,california,90804,
-3bcdb038-8b9b-8afa-2b52-5c868ce74f83,los angeles-word of truth,2501 e anaheim st,long beach,california,90804,
-3ea15d71-b3b3-89ae-2e6e-5c868cd05a9b,7th day adventist,1100 freeman ave,long beach,california,90804,adventist
+3bcdb038-8b9b-8afa-2b52-5c868ce74f83,los angeles-word of truth,2501 e anaheim st,long beach,california,90804,christian non-denominational
+3ea15d71-b3b3-89ae-2e6e-5c868cd05a9b,7th day adventist,1100 freeman ave,long beach,california,90804,seventh-day adventist
 416e0da2-5118-30b3-6c5a-5c868c1e9d52,connection the foursquare,2416 e 11 th st,long beach,california,90804,Foursquare church
-44428bdd-71a4-d6bc-bffa-5c868c97b787,the light of the world,785 junipero ave,long beach,california,90804,
+44428bdd-71a4-d6bc-bffa-5c868c97b787,the light of the world,785 junipero ave,long beach,california,90804,christian
 4719fc2b-0b5f-b649-6659-5c868c7a74f8,vietnamese evangelical church,3749 e wilton st,long beach,california,90804,evangelical
-49f1f527-ba47-0f86-0087-5c868c612773,word of truth church,2501 e anaheim st,long beach,california,90804,
+49f1f527-ba47-0f86-0087-5c868c612773,word of truth church,2501 e anaheim st,long beach,california,90804,christian non-denominational
 4cc79e92-3686-7763-507d-5c868c20b65f,grace community church-lng bch,2041 palo verde ave,long beach,california,90815,christian
-4f98f1c5-94aa-bfe3-99c5-5c868cc652f3,los altos grace brethren church,6565 e stearns st,long beach,california,90815,
+4f98f1c5-94aa-bfe3-99c5-5c868cc652f3,los altos grace brethren church,6565 e stearns st,long beach,california,90815,christian
 52737a03-0087-755a-c08a-5c868c3d7718,college park church of god,1901 palo verde ave,long beach,california,90815,pentecostal
 554c8c95-5f48-8f45-d145-5c868c13d4a9,association of the church,1901 palo verde ave,long beach,california,90815,
 58284951-96d5-ea4a-254d-5c868cbf1523,hope chapel long beach,5555 e stearns st,long beach,california,90815,
@@ -529,8 +529,8 @@ a74d67a0-f5c6-6974-e908-5c868cc90bcf,long beach new life fellowship assembly,468
 6945af13-4457-4a50-c454-5c868c010da6,los altos united church-christ,5550 e atherton st,long beach,california,90815,christian
 6c30321b-1727-264b-7143-5c868c9a5da6,restoration church,1429 clark ave,long beach,california,90815,christian non-denominational
 6f1443da-8706-85f1-7bf1-5c868cb9cf13,palo verde ave christian church,2501 palo verde ave,long beach,california,90815,christian
-71fec847-82a0-25dd-6d3f-5c868c4f0d19,theosophical society-america,2210 fanwood ave,long beach,california,90815,
-94c2c0d7-4668-4800-fd90-5c868ceb2f3f,antioch church of long beach,1535 gundry ave,long beach,california,90813,
+71fec847-82a0-25dd-6d3f-5c868c4f0d19,theosophical society-america,2210 fanwood ave,long beach,california,90815,theosophy
+94c2c0d7-4668-4800-fd90-5c868ceb2f3f,antioch church of long beach,1535 gundry ave,long beach,california,90813,christian
 97c5468c-c73d-83e2-7950-5c868cf823b2,new life church of the nazarene,1800 e anaheim st,long beach,california,90813,church of the nazarene
 9ac2b012-adb0-185b-7814-5c868c1ab10e,cherry avenue church of god,1526 cherry ave,long beach,california,90813,pentecostal
 9dc7a311-1436-753c-2577-5c868c074b32,gospel memorial church of god,1480 atlantic ave,long beach,california,90813,pentecostal
@@ -546,18 +546,18 @@ b9585eb8-274c-86ea-30bb-5c868c98775f,first jurisdiction of southern california,1
 bc6f1df8-4ae8-3ec5-47f6-5c868c042017,greater harvest church of god,1144 olive ave,long beach,california,90813,pentecostal
 bf7479d8-9d0f-5180-cd07-5c868cb234ac,saint marks baptist church,1703 lemon ave,long beach,california,90813,baptist
 c28879f0-3372-0f19-1844-5c868cae14a7,first lutheran church mo synod,946 linden ave,long beach,california,90813,Lutheran
-c5946460-831a-cbdb-b114-5c868cb90941,first friends church,850 atlantic ave,long beach,california,90813,
+c5946460-831a-cbdb-b114-5c868cb90941,first friends church,850 atlantic ave,long beach,california,90813,quaker
 c8a662e7-17f5-4c6d-92dd-5c868ccf46c6,living faith evangelical church,1235 pacific ave,long beach,california,90813,evangelical
 cbc3e44c-1f89-7e0d-3c81-5c868c8f7c4c,saint john's baptist church,741 e 10 th st,long beach,california,90813,baptist
 d1a994ea-6c2a-9807-28ba-5c868cba23eb,good seed cogic,1230 pine ave,long beach,california,90813,pentecostal
 d4c90bb8-9b00-d604-a09c-5c868cd2baa6,living hope clinical foundation,1043 elm ave,long beach,california,90813,
 d86a3816-c81c-0452-af75-5c868c69450b,south coast interfaith council,759 linden ave,long beach,california,90813,
 db54b1af-9e7a-f065-819e-5c868cc3ac43,long beach-gaviota church of god,759 linden ave,long beach,california,90813,pentecostal
-de350810-4f86-8a07-1d1c-5c868c5d9608,tabernaculo cristino misionero,1231 locust ave,long beach,california,90813,
+de350810-4f86-8a07-1d1c-5c868c5d9608,tabernaculo cristino misionero,1231 locust ave,long beach,california,90813,hispanic christian
 e11604cd-b8cf-dca2-a06d-5c868caec37f,antioch missionary baptist,1535 gundry ave,long beach,california,90813,baptist
 e3f8d965-4c00-345f-8a35-5c868c5bc63d,masjid al-shareef,2104 orange ave,long beach,california,90806,islam
 e6dfb49a-4bc5-6288-4f11-5c868c75730a,new hope church of christ,1119 e rhea st,long beach,california,90806,christian non-denominational
-ebe59a80-abf6-c7c9-5973-5c868c77cfd2,la gloria de dios,430 e pacific coast hwy,long beach,california,90806,
+ebe59a80-abf6-c7c9-5973-5c868c77cfd2,la gloria de dios,430 e pacific coast hwy,long beach,california,90806,hispanic christian
 eecc272f-d0d0-2c97-3d07-5c868c03f242,straight and narrow ministries,2485 atlantic ave,long beach,california,90806,evangelical
 f1ad0ae0-3acf-9b17-e966-5c868cc45aa3,first providence baptist church,801 e hill st,long beach,california,90806,baptist
 739008e5-1afd-0784-af78-5c868c8d5c4c,new liberty baptist church,2091 lewis ave,long beach,california,90806,baptist
@@ -566,10 +566,10 @@ f1ad0ae0-3acf-9b17-e966-5c868cc45aa3,first providence baptist church,801 e hill 
 93510d28-e946-236c-bf80-5c868cbe42bc,city church of long beach,2445 chestnut ave,long beach,california,90806,
 da0a0077-49fe-a99f-b967-5c868c6f503d,monte horeb ministerios de las asambleas de dios,1863 pacific ave,long beach,california,90806,hispanic christian
 108da0c4-bc4f-97a4-5e0f-5c868c33ece6,temple israel of long beach reform,790 e willow st,long beach,california,90806,jewish
-1389bea7-9e7b-9f14-d705-5c868cdd6886,hashaway community cme chr,1953 martin luther king jr ave,long beach,california,90806,
+1389bea7-9e7b-9f14-d705-5c868cdd6886,hashaway community cme chr,1953 martin luther king jr ave,long beach,california,90806,methodist
 16725792-7a9d-c641-88ab-5c868c9db8b8,"iglesia de jesucristo palabra miel long beach, ca",2400 pacific ave,long beach,california,90806,hispanic christian
 196e684d-6f9e-4e71-278f-5c868c56ef49,great deliverance church of god & christ,740 e hill st,long beach,california,90806,pentecostal
-1c5e7939-d240-3e7b-ea4a-5c868cc9c4c4,holy innocents church,425 e 20 th st,long beach,california,90806,
+1c5e7939-d240-3e7b-ea4a-5c868cc9c4c4,holy innocents church,425 e 20 th st,long beach,california,90806,catholic
 1f4c2b17-9704-124c-537c-5c868c4c9d86,springs of hope christian ministries,1925 pacific ave,long beach,california,90806,christian
 3efff51d-5672-76a6-0119-5c868c6222ba,christ temple apostolic church of long beach,1000 e hill st,long beach,california,90806,pentecostal
 4352c813-e317-f74d-94dc-5c868caff0ae,church-jesus christ apostolic,2258 atlantic ave,long beach,california,90806,christian
@@ -577,7 +577,7 @@ da0a0077-49fe-a99f-b967-5c868c6f503d,monte horeb ministerios de las asambleas de
 492f4a9a-338d-ed03-d592-5c868ccf3434,mount ephraim spiritual baptist church,2232 atlantic ave,long beach,california,90806,baptist
 4c82f80a-0bfb-d0d6-65d8-5c868c682ad3,wholeness wellness project b r u c e,717 e pacific coast hwy,long beach,california,90806,
 4f5dfe49-9063-f110-0e21-5c868cb8ac21,fil-am christian fellowship,3190 magnolia ave,long beach,california,90806,evangelical
-d7a6e573-c97d-fbd0-e3b7-5c868c94b34b,philadelphian seventh-day,2640 santa fe ave,long beach,california,90810,
+d7a6e573-c97d-fbd0-e3b7-5c868c94b34b,philadelphian seventh-day,2640 santa fe ave,long beach,california,90810,seventh-day adventist
 da763afb-a02b-effe-1ae0-5c868c85f3bd,lily of the valley church of god in christ,3070 santa fe ave,long beach,california,90810,pentecostal
 dd3fad41-2ab0-ef9c-4181-5c868c5892db,st lucy school,2344 cota ave,long beach,california,90810,
 e005d9b5-8f56-a980-a377-5c868c885eeb,united methodist church inc,21503 s prospect ave,long beach,california,90810,methodist
