@@ -8,6 +8,7 @@ Created on Tue Apr  2 08:50:58 2019
 import pandas as pd
 import arda_gis_denom
 import json
+import numpy as np
 fields = ['id',
           'name',
           'billing_address_street_prospect',
@@ -68,6 +69,8 @@ def prospect_arda_match(df_prospecting, df_arda):
                      'zip code'
                      ]
     df_arda = df_arda.drop_duplicates(subset=right_columns)
+    if df_arda.empty:
+        return df_prospecting
     df_prospect_merged = df_prospecting.reset_index().merge(
             df_arda,
             how='left',
@@ -110,8 +113,11 @@ def get_affiliation(df, df_arda):
     """
     df_merged = prospect_arda_match(df, df_arda)
     df_merged['denom'] = df_merged['name'].apply(map_affil)
-    df_merged['filled_aux'] = df_merged['denom'].fillna(
-            df_merged['denomination'])
+    if 'denomination' in df_merged:
+        df_merged['filled_aux'] = df_merged['denom'].fillna(
+                df_merged['denomination'])
+    else:
+        df_merged['filled_aux'] = np.nan
     df_merged['filled'] = df_merged.apply(bible_fill, axis=1)
     return df_merged['filled']
 
@@ -126,9 +132,9 @@ def test(df_prospect, city_test):
                       'state',
                       'street address',
                       'zip code']
-    df_arda[df_arda_fields] = preprocess_arda(df_arda[df_arda_fields])
-    print(len(df_arda))
-    df_arda = df_arda[df_arda['city'] == city_test]
+    if not df_arda.empty:
+        df_arda[df_arda_fields] = preprocess_arda(df_arda[df_arda_fields])
+        df_arda = df_arda[df_arda['city'] == city_test.lower()]
     print(len(df_arda))
 
     df_prospect = df_prospect[df_prospect['city'] == city_test]
