@@ -6,14 +6,14 @@ Created on Thu Mar 28 15:22:50 2019
 """
 import json
 import requests
-import pandas as pd 
+import pandas as pd
 URLplaces = ("http://maps.nazarene.org/arcgis/rest/services/"
              + "ARDA/InfoGroupChurches/MapServer/0/query")
 URLcandidates = ("https://geocode.arcgis.com/arcgis/rest/services/"
                  + "World/GeocodeServer/findAddressCandidates")
 
 
-def arda_gis_geometry_dict(city, url, state="California", country="USA"):
+def arda_gis_geometry_dict(city, url, state="Illinois", country="USA"):
     """get geometry from a city using the rest API"""
     querystring = {"f": "json",
                    "outFields": "Loc_nam",
