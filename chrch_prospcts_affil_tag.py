@@ -9,12 +9,16 @@ import pandas as pd
 import arda_gis_denom
 import json
 import numpy as np
+
+# relevant fields from csv
+
 fields = ['id',
           'name',
           'billing_address_street_prospect',
           'billing_address_city_prospect',
           'billing_address_state_prospect',
-          'billing_address_postalcode_prospect'
+          'billing_address_postalcode_prospect',
+          'PHONE'
           ]
 renamed_dict = {'billing_address_street_prospect': "street",
                 'billing_address_city_prospect': "city",
