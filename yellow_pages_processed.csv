@@ -1,4 +1,4 @@
-,NAME,Address1,Address2,PHONE,street address,city,zipcode,state
+id,name,Address1,Address2,PHONE,billing_address_street_prospect,billing_address_city_prospect,billing_address_postalcode_prospect,billing_address_state_prospect
 0,Jewish Federation Of Metro Chicago,"30 S Wells StChicago, IL 60606","30+S+Wells+StChicago,+IL+60606",(312) 767-6403,30 S Wells St,Chicago,60606,IL
 1,Catholic Church Extension Society,"150 S Wacker Dr Ste 2000Chicago, IL 60606","150+S+Wacker+Dr+Ste+2000Chicago,+IL+60606",(312) 236-2740,150 S Wacker Dr Ste 2000,Chicago,60606,IL
 2,Congregation-Sons,"205 W Monroe StChicago, IL 60606","205+W+Monroe+StChicago,+IL+60606",(312) 236-7782,205 W Monroe St,Chicago,60606,IL

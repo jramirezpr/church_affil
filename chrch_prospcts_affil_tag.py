@@ -24,12 +24,12 @@ renamed_dict = {'billing_address_street_prospect': "street",
                 'billing_address_city_prospect': "city",
                 'billing_address_state_prospect': "state",
                 'billing_address_postalcode_prospect': "zipcode"}
-df_prospecting = pd.read_csv("df_gpcdb_prospects.csv",
-                             encoding="ISO-8859-1",
-                             usecols=fields,
-                             dtype="object",
-                             index_col=0
-                             )
+#df_prospecting = pd.read_csv("df_gpcdb_prospects.csv",
+#                             encoding="ISO-8859-1",
+#                             usecols=fields,
+#                             dtype="object",
+#                             index_col=0
+#                             )
 
 with open('keywords_churches.json', 'r') as infile:
     keyword_affiliation = json.load(infile)
@@ -39,7 +39,7 @@ with open('keywords_churches.json', 'r') as infile:
 def add_keyword(keyword, value):
     """add_keyword to dictionary"""
     if keyword in keyword_affiliation:
-        print('error, keyword already in dictionary with value')
+        print('error, keywodf_rd already in dictionary with value')
         print(keyword_affiliation[keyword])
     else:
         keyword_affiliation[keyword] = value
@@ -121,7 +121,7 @@ def get_affiliation(df, df_arda):
         df_merged['filled_aux'] = df_merged['denom'].fillna(
                 df_merged['denomination'])
     else:
-        df_merged['filled_aux'] = np.nan
+        df_merged['filled_aux'] = df_merged['denom']
     df_merged['filled'] = df_merged.apply(bible_fill, axis=1)
     return df_merged['filled']
 
@@ -144,7 +144,8 @@ def test(df_prospect, city_test):
     df_prospect = df_prospect[df_prospect['city'] == city_test]
     print(len(df_prospect))
     df_prospect2 = df_prospect.copy()
-    df_prospect2['affili'] = get_affiliation(df_prospect, df_arda)
+    print(df_prospect2)
+    df_prospect2['affili'] = get_affiliation(df_prospect2, df_arda)
     return df_prospect2
 
 
